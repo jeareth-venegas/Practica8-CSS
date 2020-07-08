@@ -1,0 +1,80 @@
+h2 {text-transform: uppercase;
+	color: grey;
+	font-weight: bold;
+}
+
+/* Pseudo clases */
+.save{
+	color: white;
+	padding: 10px 70px;
+	font-size:13px;
+    border: 1px solid black;
+    background-color: black;
+}
+
+.save:hover{
+    background-color:white;
+    color: black;
+}
+
+.save:active{
+    background-color: white;
+    color: black;
+}
+
+
+.submit{
+	color:black;
+	padding: 10px 70px;
+	font-size:13px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.submit:hover{
+    background-color:black;
+    color: white;
+}
+
+.submit:active{
+    background-color: white;
+    color: black;
+}
+
+
+.cancel{
+	color:black;
+	padding: 10px 70px;
+	font-size:13px;
+    border: 1px solid black;
+    background-color: #F0F0F0;
+}
+
+.cancel:hover{
+    background-color:#616066;
+    color: white;
+}
+
+.cancel:active{
+    background-color: #F0F0F0;
+    color: black;
+}
+
+
+.sign-up{
+	color:white;
+	padding: 10px 70px;
+	font-size:13px;
+    border: 1px solid #0074DA;
+    background-color: #0074DA;
+}
+
+.sign-up:hover{
+    background-color:lightblue;
+    color: black;
+}
+
+.sign-up:active{
+    background-color: #F0F0F0;
+    color: black;
+}
